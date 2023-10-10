@@ -4,8 +4,6 @@
 
 [![pages-build-deployment](https://github.com/RomanMenshikov92/new-repo-ahj-homeworks-animation-css/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RomanMenshikov92/new-repo-ahj-homeworks-animation-css/actions/workflows/pages/pages-build-deployment)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/uxf2gre782ajooiq?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/new-repo-ahj-homeworks-animation-css)
-
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
